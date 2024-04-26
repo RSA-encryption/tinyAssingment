@@ -1,0 +1,7 @@
+parameters:
+	level: 9
+	paths:
+		- App
+		- Test
+includes:
+	- phar://phpstan.phar/conf/bleedingEdge.neon
